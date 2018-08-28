@@ -1,5 +1,6 @@
-package android.hms.study_f_3_hms_mm_news;
+package android.hms.news.activities;
 
+import android.hms.news.R;
 import android.os.Bundle;
 import android.support.design.widget.FloatingActionButton;
 import android.support.design.widget.Snackbar;
